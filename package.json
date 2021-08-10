@@ -1,0 +1,11 @@
+{
+  "name": "chat_react_socket.io",
+  "version": "1.0.0",
+  "description": "app chat socket.io and Reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Edgardo Duno Castellano <luisdunocastellano@gmail.com>",
+  "license": "MIT"
+}

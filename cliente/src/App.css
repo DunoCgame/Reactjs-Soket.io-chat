@@ -1,0 +1,117 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.Title{
+	text-align:center;
+	color:white;
+}
+
+.area-chat{
+	padding:6px;
+	background:gray;
+
+}
+
+.input-send{
+	width:80%;
+	padding:9px;
+	border-style:none;
+	margin-left:1px;
+	margin-right:8px;
+}
+
+.btn-send{
+	width:17%;
+	background:blue;
+	color:white;
+	padding:9px;
+	border-style:none;
+}
+
+/*area chat*/
+
+.chat{
+	padding:10px;
+	background:white;
+	margin-bottom:9px;
+	
+	overflow-y:scroll;
+	
+	height:350px;
+}
+
+.User1{
+	background:blue;
+	color:white;
+	margin-bottom:5px;
+	padding:5px;
+	
+}
+
+.User2{
+	background:green;
+	color:white;
+	margin-bottom:5px;
+	padding:5px;
+	
+}
+
+.User3{
+	background:orange;
+	color:white;
+	margin-bottom:5px;
+	padding:5px;
+	
+}
+
+.User4{
+	background:red;
+	color:white;
+	margin-bottom:5px;
+	padding:5px;
+	
+}
+/*area chat*/
+
+.Select-User{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100vh;
+	background:#332344;
+}
+
+.Title-Select-User{
+	color:white;
+	font-size:30px;
+	text-align:center;
+	font-weight:bold;
+}
+
+.form-user-select{
+	background:grey;
+	width:400px;
+	height:180px;
+	display:flex;
+	flex-direction:column;
+	padding:10px;
+}
+
+.Btn-select-user{
+	height:80px;
+	font-size:20px;
+	margin-top:10px;
+	text-align:center;
+}
+
+.btn-Iniciar-Secion{
+	
+	background:blue;
+	padding:5px;
+	color:white;
+	margin-top:10px;
+	border-style:none;
+	font-size:20px;
+}
